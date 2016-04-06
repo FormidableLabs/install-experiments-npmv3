@@ -1,0 +1,11 @@
+{
+  "name": "install-experiments-npmv3",
+  "version": "0.0.1",
+  "description": "Installation experiments with npm v3.",
+  "author": "Ryan Roemer <ryan.roemer@formidable.com>",
+  "license": "MIT",
+  "dependencies": {
+    "builder": "2.9.0",
+    "lodash": "^3.10.1"
+  }
+}
