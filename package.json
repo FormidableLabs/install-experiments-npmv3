@@ -4,6 +4,13 @@
   "description": "Installation experiments with npm v3.",
   "author": "Ryan Roemer <ryan.roemer@formidable.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FormidableLabs/install-experiments-npmv3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FormidableLabs/install-experiments-npmv3/issues"
+  },
   "dependencies": {
     "builder": "2.9.0",
     "lodash": "^3.10.1"
